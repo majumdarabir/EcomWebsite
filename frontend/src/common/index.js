@@ -1,7 +1,7 @@
 // const backendDomin = "http://localhost:8080"
 // const backendDomin = "https://ecomwebsiteabir-axx6.onrender.com"
-// const backendDomin = "https://ecomwebsiteabirmajumdar.onrender.com"
-const backendDomin = "https://ecomwebsitemajum.onrender.com"
+const backendDomin = "https://ecomwebsiteabirmajumdar.onrender.com"
+// const backendDomin = "https://ecomwebsitemajum.onrender.com"
 //false secure
 
 const SummaryApi = {
